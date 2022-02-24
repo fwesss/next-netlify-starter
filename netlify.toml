@@ -4,6 +4,8 @@
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
+
+[[plugins]]
   package = "@commandbar/netlify-plugin-commandbar"
 
 [plugins.inputs.linkCommands]
