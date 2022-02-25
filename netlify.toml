@@ -6,7 +6,7 @@
   package = "@commandbar/netlify-plugin-commandbar"
 
 [plugins.inputs]
-  entryPoint = "index.html"
+  entryPoint = "iindex.html"
 
 [plugins.inputs.linkCommands]
   "Go to stack overflow" = 'https://stackoverflow.com'
