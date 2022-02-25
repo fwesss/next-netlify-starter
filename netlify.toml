@@ -4,6 +4,8 @@
 
 [[plugins]]
   package = "@commandbar/netlify-plugin-commandbar"
+
+[plugins.inputs]
   entryPoint = "index.html"
 
 [plugins.inputs.linkCommands]
