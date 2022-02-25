@@ -4,9 +4,7 @@
 
 [[plugins]]
   package = "@commandbar/netlify-plugin-commandbar"
-
-# Optional
-entryPoint = "index.html"
+  entryPoint = "index.html"
 
 [plugins.inputs.linkCommands]
   "Go to stack overflow" = 'https://stackoverflow.com'
