@@ -2,8 +2,3 @@
   command = "npm run build"
   publish = ".next"
 
-[[plugins]]
-  package = "@commandbar/netlify-plugin-commandbar"
-
-[plugins.inputs.linkCommands]
-  "Go to stack overflow" = 'https://stackoverflow.com'
