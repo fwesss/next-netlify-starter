@@ -5,11 +5,5 @@
 [[plugins]]
   package = "@commandbar/netlify-plugin-commandbar"
 
-[plugins.inputs]
-  entryPoint = "iindex.html"
-
 [plugins.inputs.linkCommands]
   "Go to stack overflow" = 'https://stackoverflow.com'
-
-[[plugins]]
-  package = "@netlify/plugin-nextjs"
